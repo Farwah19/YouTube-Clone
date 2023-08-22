@@ -24,7 +24,7 @@ There is no installation required for this project. It is a static web page, and
 - `icons` folder (.jpg, .png, .svg files).
 - `styles` folder (CSS code).
 - `thumbnails` folder (.webp file)
-- 
+
 ## Contact
 
 For further queries, please contact at farwah.hamid21@gmail.com.
